@@ -1,0 +1,26 @@
+<html>
+ <head>
+  <title>First Project</title>
+  <style>
+
+  </style>
+ </head>
+ <body>
+ <div class="container">
+   <div class="title">
+    <h3>Title of Page</h3>
+   </div>
+   <div class="main1">
+    <div class="side1">
+
+   </div>
+   <div class="middle">
+
+   </div>
+   </div>
+   <div class="foot1">
+
+   </div>
+</div>
+ </body>
+</html>
